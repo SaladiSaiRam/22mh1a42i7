@@ -1,0 +1,8 @@
+"fastapi
+uvicorn[standard]
+cryptography
+pyotp
+requests
+python-dotenv" | Out-File -Encoding utf8 requirements.txt
+git add requirements.txt
+git commit -m "chore: add requirements"

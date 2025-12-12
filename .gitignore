@@ -1,0 +1,9 @@
+﻿# encrypted seed should not be committed
+encrypted_seed.txt
+# virtual env
+.venv/
+__pycache__/
+*.pyc
+# OS files
+.DS_Store
+Thumbs.db
